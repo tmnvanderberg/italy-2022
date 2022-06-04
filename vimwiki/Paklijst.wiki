@@ -18,7 +18,8 @@
 - [X] Underpants 
 - [X] Maps + a small compass
 - [X] A few pieces of paper and a pen for notes
-- [X] Tweezers, nail clipper & tick remover
+- [X] Tweezers, nail clipper
+- [ ] tick remover
 - [X] 1 quick-dry travel towel
 - [ ] Tissues
 - [ ] Full first aid kit & plenty of blister plasters
